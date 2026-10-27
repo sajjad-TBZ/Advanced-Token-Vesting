@@ -1,3 +1,4 @@
+![Advanced Token Vesting Banner](baner_01.jpg)
 # 🚀 Advanced Token Vesting Protocol
 
 A professional, production-ready Token Vesting Smart Contract built with **Solidity** and tested using **Python (Web3.py)**. 
